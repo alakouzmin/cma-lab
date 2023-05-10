@@ -1,1 +1,1 @@
-# cma-3d-wiki
+# cma-lab-wiki
